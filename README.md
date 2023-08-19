@@ -1,5 +1,5 @@
 # Game of Thrones Death Analysis
-![image-3](https://github.com/seymaozerr/got-death-analysis/blob/main/images/Game-of-Thrones-Logo-Free-Download-PNG.png)
+![image-3](https://github.com/seymaozerr/got-death-analysis/blob/main/images/Game%20of%20Thrones.png)
 
 ## Proje Açıklaması
 
